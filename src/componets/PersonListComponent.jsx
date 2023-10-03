@@ -34,7 +34,7 @@ class PersonListComponent extends Component {
   render() {
     return (
       <div className="container">
-        <h2 className="text-center">List of Individuals</h2>
+        <h2 className="text-center">CeleriHire: Dynamic Employee Management</h2>
         <div>
           <button
             className="btn btn-primary"
